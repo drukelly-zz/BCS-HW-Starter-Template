@@ -3,7 +3,8 @@ Site/Project structure template for BCS homework submission
 
 - Download the zip or `git clone`
 - Once downloaded or cloned, `cd` to where the folder is extracted/cloned
-- Remove the `.git` directory (i.e. `rm -rf .git`)
+- Remove the `.git` directory and the `README.md` file (i.e. `rm -rf .git README.md`)
+- Rename the root folder from `BCS-HW-Starter-Template` to the name of your project
 - `git init`
 - Add to your git repository: https://help.github.com/en/articles/adding-a-remote
 
