@@ -9,7 +9,7 @@ Site/Project structure template for BCS homework submission
 
 # Recommended
 - Create "empty" repo on Github
-- Clone locally
+- Clone "empty" repo locally
 - Drag and drop files or `mv` downloaded contents from starter template onto newly cloned repo
 
 ## Additional (Complicated) Steps?
